@@ -1,5 +1,5 @@
 /*
-Used CTTE's to create various subsets of the data:
+Used CTE's to create various subsets of the data:
 1) Performed an Inner join between customer_data and customer_address
 2) 
 */
