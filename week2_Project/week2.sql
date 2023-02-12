@@ -25,8 +25,8 @@ gary_geolocation as (
 ),
 customer_food_pref as (
     select 
-        customer_id,
-        count(*)::int as food_pref_count
+        customer_id
+        , count(*)::int as food_pref_count
     from vk_data.customers.customer_survey
     where is_active = true
     group by 1
