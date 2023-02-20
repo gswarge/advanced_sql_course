@@ -33,8 +33,8 @@ I wrote 2 versions of the query to understand the query profile.
 There was a notable difference in query execution as well as compilation:
 ![Query execution profile version 1](w3-qv1.png)
 ![Query results version 1](w3-qv1.3.png) 
-![Query execution profile version 2](w3-qv1.png)
-![Query results version 2](w3-qv1.3.png) 
+![Query execution profile version 2](w3-qv2.png)
+![Query results version 2](w3-qv2.3.png) 
 
 #### version 1:
 ```sql
